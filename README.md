@@ -16,7 +16,7 @@ Experimental library. Minimal tested, so usage remarks and comments are welcome.
 ## Installation
 
 1. Copy the `DCMotorDriver.h` and `DCMotorDriver.cpp` files into your Arduino project's `lib/DCMotorDriver/` directory if you are using PlatformIO in VS Code.
-2. If you are using the Arduino IDE, copy the files to your Arduino libraries folder (e.g., `C:\Users\<YourUsername>\Documents\Arduino\libraries\DCMotorDriver\`).
+2. If you are using the Arduino IDE, copy the files to your Arduino libraries folder (e.g., `C:\Users\<YourUsername>\Documents\Arduino\libraries\DCMotorDriver_dff\`).
 3. Alternatively, clone the repository directly into your libraries folder using the following command:
 
    ```bash
