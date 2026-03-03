@@ -14,8 +14,8 @@
  *  such as the L298N, but can be extended to other drivers.
  */
 
-#ifndef __DCMOTORDRIVER_H__
-#define __DCMOTORDRIVER_H__
+#ifndef DFF_DCMOTORDRIVER_H
+#define DFF_DCMOTORDRIVER_H
 
 #include <Arduino.h>
 
