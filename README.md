@@ -58,6 +58,7 @@ Below is an example of using the DCMotorDriver library to control a DC motor:
 #include <Arduino.h>
 #include <DCMotorDriver.h>
 
+// change as needed
 #define IN1 8
 #define IN2 7
 #define ENA 10
@@ -75,6 +76,14 @@ void loop() {
     delay(1000);
 }
 ```
+
+### Diagram
+
+Refer to the following diagram for the wiring connections:
+
+<p align="center">
+<img src="images/arduino_motor_driver_connections.jpg" width="600" alt="Motor driver connections" />
+</p>
 
 ## License
 
