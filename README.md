@@ -1,8 +1,27 @@
+<div align="center"><p>
+    <a href="https://github.com/bulb-light/DCMotorDriver_dff/pulse">
+      <img alt="Last commit" src="https://img.shields.io/github/last-commit/bulb-light/DCMotorDriver_dff?style=for-the-badge&logo=starship&color=8bd5ca&logoColor=D9E0EE&labelColor=302D41"/>
+    </a>
+    <a href="https://github.com/bulb-light/DCMotorDriver_dff/blob/master/LICENSE">
+      <img alt="License" src="https://img.shields.io/github/license/bulb-light/DCMotorDriver_dff?style=for-the-badge&logo=starship&color=ee999f&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DCMotorDriver_dff/stargazers">
+      <img alt="Stars" src="https://img.shields.io/github/stars/bulb-light/DCMotorDriver_dff?style=for-the-badge&logo=starship&color=c69ff5&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DCMotorDriver_dff/issues">
+      <img alt="Issues" src="https://img.shields.io/github/issues/bulb-light/DCMotorDriver_dff?style=for-the-badge&logo=bilibili&color=F5E0DC&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://github.com/bulb-light/DCMotorDriver_dff">
+      <img alt="Repo Size" src="https://img.shields.io/github/repo-size/bulb-light/DCMotorDriver_dff?color=%23DDB6F2&label=SIZE&logo=codesandbox&style=for-the-badge&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+    <a href="https://www.youtube.com/@david-dff-bulblight">
+      <img alt="follow on Youtube" src="https://img.shields.io/twitter/follow/david-dff-bulblight?style=for-the-badge&logo=youtube&color=8aadf3&logoColor=D9E0EE&labelColor=302D41" />
+    </a>
+</div>
+
 # DCMotorDriver Library for Arduino and ESP32
 
-## Overview
-
-The DCMotorDriver library provides an easy-to-use interface for controlling DC motors using motor drivers such as the ***L298N***. It allows for motor initialization, direction control, speed control, and stopping the motor. The library is designed to be extendable to other motor drivers.
+The DCMotorDriver library provides an easy-to-use interface for controlling DC motors using motor drivers such as the ***L298N*** or **TB6612FNG**. It can also be adapted to work with other drivers.
 
 Experimental library. Minimal tested, so usage remarks and comments are welcome.
 
